@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "693656618226",
+    "firebase_url": "https://ashirwad-medical-52216.firebaseio.com",
+    "project_id": "ashirwad-medical-52216",
+    "storage_bucket": "ashirwad-medical-52216.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693656618226:android:b5662499feea2d310dbc6b",
+        "android_client_info": {
+          "package_name": "com.example.medicine_reminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693656618226-1hvoiqei0t990qi11mjdrvlc9s3gbv6g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medicine_reminder",
+            "certificate_hash": "0cef082b615d02c740345334636e93fe3635f6c8"
+          }
+        },
+        {
+          "client_id": "693656618226-2s4bstskkql2smitc3fp19g6lrmdlvle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6pE3yvUntLeN2htCKrTkZLV3GCWf3TV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693656618226-2s4bstskkql2smitc3fp19g6lrmdlvle.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
